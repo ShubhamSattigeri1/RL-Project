@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BASE = 'http://127.0.0.1:8000'
+const BASE = 'https://sattigeri07-rl-project.hf.space'
 
 export async function recommend(user_id, content_id) {
   const r = await axios.post(`${BASE}/recommend`, { user_id, content_id })
