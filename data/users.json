@@ -1,0 +1,4689 @@
+[
+  {
+    "user_id": "user_001",
+    "name": "Drew Lee",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Pulse",
+      "Broken Stars",
+      "Black Mirrorings",
+      "Broken Stars",
+      "Caf\u00e9 Confessions",
+      "Midnight Chase"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_002",
+    "name": "Reese Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Laugh Track",
+      "Night of Whispers",
+      "Laugh Track",
+      "Void Runner",
+      "The Last Lark",
+      "Echoes of Silence",
+      "Caf\u00e9 Confessions"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_003",
+    "name": "Elliot Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Final Transmission",
+      "Void Runner",
+      "Grimyard",
+      "Iron Veil",
+      "The Last Lark",
+      "Outbreak Protocol",
+      "Broken Stars"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_004",
+    "name": "Skyler Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Pulse",
+      "Hidden Verdict",
+      "Broken Stars",
+      "Outbreak Protocol",
+      "Hidden Verdict",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_005",
+    "name": "Jamie Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Comic Relief",
+      "Final Act",
+      "Rogue Signal",
+      "Moonlight Sonata",
+      "Blaze Runner",
+      "Laugh Track",
+      "Creeping Fog",
+      "Final Act",
+      "Midnight Chase",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_006",
+    "name": "Logan Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Echoes of Silence",
+      "Pulse",
+      "Pulse",
+      "Laugh Track",
+      "Harbor Lights",
+      "Harbor Lights",
+      "Whispered Promises"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_007",
+    "name": "Skyler Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Black Mirrorings",
+      "Iron Veil",
+      "Echoes of Silence",
+      "Void Runner",
+      "Heartstrings",
+      "Black Mirrorings"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_008",
+    "name": "Avery Garcia",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Comic Relief",
+      "Iron Veil",
+      "Hidden Verdict",
+      "Heartstrings",
+      "Harbor Lights",
+      "Final Act",
+      "Tides of Tomorrow",
+      "Creeping Fog",
+      "Starlit Run"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_009",
+    "name": "Cameron Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Midnight Chase",
+      "Final Transmission",
+      "Harbor Lights",
+      "Comic Relief",
+      "Broken Lullaby",
+      "The Last Lark",
+      "Final Transmission"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_010",
+    "name": "Skyler Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Midnight Chase",
+      "Rogue Signal",
+      "Grimyard",
+      "Blaze Runner",
+      "Laugh Track",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_011",
+    "name": "Reese Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Creeping Fog",
+      "Shadows of Mars",
+      "Laugh Track",
+      "Moonlight Sonata",
+      "Final Transmission",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_012",
+    "name": "Reese Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Whispered Promises",
+      "Tides of Tomorrow",
+      "Final Transmission",
+      "Broken Lullaby",
+      "Steel Horizon",
+      "Harbor Lights",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_013",
+    "name": "Casey Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Starlit Run",
+      "Laugh Track",
+      "Broken Lullaby",
+      "Shadows of Mars",
+      "Midnight Chase",
+      "Steel Horizon",
+      "Grimyard",
+      "Sunny Hearts",
+      "Hidden Verdict"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_014",
+    "name": "Logan Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Starlit Run",
+      "Black Mirrorings",
+      "Sunny Hearts",
+      "Sunny Hearts",
+      "Blaze Runner",
+      "Sunny Hearts",
+      "Shadows of Mars",
+      "Midnight Chase",
+      "Steel Horizon"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_015",
+    "name": "Skyler Martinez",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Steel Horizon",
+      "Tides of Tomorrow",
+      "Moonlight Sonata",
+      "Echoes of Silence",
+      "Pulse",
+      "Final Transmission",
+      "Harbor Lights",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_016",
+    "name": "Cameron Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Void Runner",
+      "Midnight Chase",
+      "Starlit Run",
+      "Rogue Signal",
+      "The Last Lark",
+      "Outbreak Protocol"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_017",
+    "name": "Skyler Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Final Transmission",
+      "Whispered Promises",
+      "Grimyard",
+      "Outbreak Protocol",
+      "Midnight Chase",
+      "Whispered Promises",
+      "Creeping Fog"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_018",
+    "name": "Logan Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Heartstrings",
+      "Pulse",
+      "Comic Relief",
+      "Outbreak Protocol",
+      "Whispered Promises"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_019",
+    "name": "Rowan Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Blaze Runner",
+      "Sunny Hearts",
+      "Black Mirrorings",
+      "Rogue Signal",
+      "Grimyard"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_020",
+    "name": "Morgan Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Rogue Signal",
+      "Final Act",
+      "Iron Veil",
+      "Steel Horizon",
+      "Comic Relief",
+      "Comic Relief",
+      "Comic Relief"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_021",
+    "name": "Jordan Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Caf\u00e9 Confessions",
+      "Pulse",
+      "Void Runner",
+      "The Last Lark",
+      "Moonlight Sonata",
+      "Harbor Lights",
+      "Outbreak Protocol"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_022",
+    "name": "Cameron Garcia",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Sunny Hearts",
+      "Creeping Fog",
+      "Echoes of Silence",
+      "Iron Veil",
+      "Black Mirrorings",
+      "Caf\u00e9 Confessions"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_023",
+    "name": "Casey Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Heartstrings",
+      "Harbor Lights",
+      "Hidden Verdict",
+      "Outbreak Protocol",
+      "Final Transmission",
+      "Shadows of Mars",
+      "The Last Lark"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_024",
+    "name": "Avery Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Whispered Promises",
+      "Grimyard",
+      "The Last Lark",
+      "Sunny Hearts",
+      "Hidden Verdict",
+      "Broken Lullaby",
+      "Creeping Fog",
+      "Broken Lullaby",
+      "Heartstrings",
+      "Night of Whispers"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_025",
+    "name": "Morgan Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Laugh Track",
+      "Broken Stars",
+      "Pulse",
+      "Blaze Runner",
+      "Outbreak Protocol"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_026",
+    "name": "Taylor Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Pulse",
+      "Starlit Run",
+      "Broken Lullaby",
+      "The Last Lark",
+      "Caf\u00e9 Confessions",
+      "Black Mirrorings",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_027",
+    "name": "Avery Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Laugh Track",
+      "Harbor Lights",
+      "Laugh Track",
+      "Harbor Lights",
+      "Midnight Chase",
+      "Final Act"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_028",
+    "name": "Logan Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Black Mirrorings",
+      "Night of Whispers",
+      "Harbor Lights",
+      "Final Act",
+      "Midnight Chase",
+      "Broken Lullaby",
+      "Black Mirrorings",
+      "Starlit Run",
+      "Starlit Run"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_029",
+    "name": "Blake Anderson",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Black Mirrorings",
+      "Grimyard",
+      "Starlit Run",
+      "Starlit Run",
+      "The Last Lark",
+      "Broken Stars",
+      "Moonlight Sonata"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_030",
+    "name": "Drew Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Iron Veil",
+      "Sunny Hearts",
+      "Outbreak Protocol",
+      "Pulse",
+      "Grimyard"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_031",
+    "name": "Cameron Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Moonlight Sonata",
+      "Black Mirrorings",
+      "Hidden Verdict",
+      "Rogue Signal",
+      "Hidden Verdict",
+      "Outbreak Protocol"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_032",
+    "name": "Skyler Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Stars",
+      "Sunny Hearts",
+      "Broken Stars",
+      "Comic Relief",
+      "Night of Whispers",
+      "Heartstrings",
+      "Void Runner",
+      "Harbor Lights",
+      "Starlit Run"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_033",
+    "name": "Avery Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Steel Horizon",
+      "Broken Lullaby",
+      "Grimyard",
+      "Final Transmission",
+      "Heartstrings",
+      "Outbreak Protocol",
+      "The Last Lark",
+      "Iron Veil",
+      "Sunny Hearts",
+      "Comic Relief"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_034",
+    "name": "Jordan Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Comic Relief",
+      "Iron Veil",
+      "Starlit Run",
+      "Broken Lullaby",
+      "Steel Horizon"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_035",
+    "name": "Taylor Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Outbreak Protocol",
+      "Whispered Promises",
+      "The Last Lark",
+      "Steel Horizon",
+      "Shadows of Mars",
+      "Broken Lullaby"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_036",
+    "name": "Drew Brown",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "The Last Lark",
+      "Night of Whispers",
+      "Harbor Lights",
+      "Starlit Run",
+      "Laugh Track",
+      "Laugh Track",
+      "Hidden Verdict"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_037",
+    "name": "Jamie Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Rogue Signal",
+      "Steel Horizon",
+      "Iron Veil",
+      "Final Act",
+      "Broken Lullaby"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_038",
+    "name": "Riley Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Creeping Fog",
+      "Broken Lullaby",
+      "Black Mirrorings",
+      "Tides of Tomorrow",
+      "Starlit Run",
+      "Rogue Signal",
+      "Black Mirrorings"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_039",
+    "name": "Morgan Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Whispered Promises",
+      "Harbor Lights",
+      "Sunny Hearts",
+      "Steel Horizon",
+      "Rogue Signal",
+      "Creeping Fog",
+      "Black Mirrorings",
+      "Blaze Runner",
+      "Echoes of Silence"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_040",
+    "name": "Morgan Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "The Last Lark",
+      "Moonlight Sonata",
+      "Steel Horizon",
+      "Moonlight Sonata",
+      "Creeping Fog",
+      "Creeping Fog",
+      "Tides of Tomorrow"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_041",
+    "name": "Rowan Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Comic Relief",
+      "Broken Stars",
+      "Grimyard",
+      "Heartstrings",
+      "Midnight Chase",
+      "Whispered Promises",
+      "Pulse"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_042",
+    "name": "Avery Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Grimyard",
+      "Heartstrings",
+      "Starlit Run",
+      "Comic Relief",
+      "Sunny Hearts",
+      "Heartstrings",
+      "Moonlight Sonata"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_043",
+    "name": "Morgan Brown",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Starlit Run",
+      "Final Act",
+      "Final Act",
+      "Laugh Track",
+      "Tides of Tomorrow",
+      "Outbreak Protocol"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_044",
+    "name": "Morgan Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Blaze Runner",
+      "Pulse",
+      "Broken Lullaby",
+      "Iron Veil",
+      "Hidden Verdict",
+      "Pulse",
+      "Final Transmission",
+      "Creeping Fog"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_045",
+    "name": "Alex Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Stars",
+      "Sunny Hearts",
+      "Harbor Lights",
+      "Harbor Lights",
+      "Moonlight Sonata",
+      "Creeping Fog",
+      "Iron Veil",
+      "Harbor Lights"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_046",
+    "name": "Avery Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Echoes of Silence",
+      "Void Runner",
+      "Broken Stars",
+      "Final Transmission",
+      "Broken Lullaby",
+      "Caf\u00e9 Confessions",
+      "Creeping Fog",
+      "The Last Lark"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_047",
+    "name": "Drew Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Night of Whispers",
+      "Hidden Verdict",
+      "The Last Lark",
+      "Sunny Hearts",
+      "The Last Lark",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_048",
+    "name": "Hayden Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Heartstrings",
+      "Heartstrings",
+      "Final Act",
+      "Grimyard",
+      "Harbor Lights",
+      "Whispered Promises"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_049",
+    "name": "Reese Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Blaze Runner",
+      "Outbreak Protocol",
+      "Blaze Runner",
+      "Sunny Hearts",
+      "Comic Relief",
+      "Sunny Hearts",
+      "Steel Horizon",
+      "Final Act",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_050",
+    "name": "Reese Johnson",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Lullaby",
+      "Shadows of Mars",
+      "Broken Stars",
+      "Hidden Verdict",
+      "Broken Lullaby",
+      "Shadows of Mars",
+      "Heartstrings",
+      "Echoes of Silence",
+      "Grimyard"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_051",
+    "name": "Jordan Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Heartstrings",
+      "Midnight Chase",
+      "Sunny Hearts",
+      "The Last Lark",
+      "Blaze Runner",
+      "Broken Stars",
+      "Outbreak Protocol",
+      "Starlit Run",
+      "Caf\u00e9 Confessions",
+      "Void Runner"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_052",
+    "name": "Avery Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Outbreak Protocol",
+      "Whispered Promises",
+      "Outbreak Protocol",
+      "Hidden Verdict",
+      "Iron Veil",
+      "Broken Stars",
+      "Tides of Tomorrow",
+      "Sunny Hearts",
+      "Starlit Run",
+      "Night of Whispers"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_053",
+    "name": "Elliot Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Stars",
+      "Caf\u00e9 Confessions",
+      "Caf\u00e9 Confessions",
+      "Sunny Hearts",
+      "Void Runner",
+      "Midnight Chase",
+      "Night of Whispers",
+      "Rogue Signal",
+      "Tides of Tomorrow"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_054",
+    "name": "Jamie Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Tides of Tomorrow",
+      "Harbor Lights",
+      "Pulse",
+      "Shadows of Mars",
+      "Broken Lullaby",
+      "Final Act",
+      "Sunny Hearts"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_055",
+    "name": "Skyler Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Comic Relief",
+      "Midnight Chase",
+      "Starlit Run",
+      "Midnight Chase",
+      "Moonlight Sonata",
+      "Creeping Fog",
+      "Harbor Lights",
+      "Harbor Lights",
+      "Blaze Runner",
+      "Black Mirrorings"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_056",
+    "name": "Cameron Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Whispered Promises",
+      "Iron Veil",
+      "Iron Veil",
+      "Rogue Signal",
+      "Starlit Run",
+      "Comic Relief",
+      "Laugh Track",
+      "Iron Veil"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_057",
+    "name": "Drew Garcia",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Echoes of Silence",
+      "Caf\u00e9 Confessions",
+      "Night of Whispers",
+      "Grimyard",
+      "Tides of Tomorrow",
+      "Comic Relief"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_058",
+    "name": "Parker Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Stars",
+      "The Last Lark",
+      "Tides of Tomorrow",
+      "Steel Horizon",
+      "Sunny Hearts",
+      "Rogue Signal",
+      "Echoes of Silence",
+      "Tides of Tomorrow"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_059",
+    "name": "Rowan Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Caf\u00e9 Confessions",
+      "Laugh Track",
+      "Hidden Verdict",
+      "Final Transmission",
+      "Hidden Verdict"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_060",
+    "name": "Cameron Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "The Last Lark",
+      "Moonlight Sonata",
+      "Outbreak Protocol",
+      "Starlit Run",
+      "Harbor Lights"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_061",
+    "name": "Skyler Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Whispered Promises",
+      "Laugh Track",
+      "Tides of Tomorrow",
+      "Black Mirrorings",
+      "Echoes of Silence",
+      "Midnight Chase",
+      "Heartstrings",
+      "Echoes of Silence",
+      "Echoes of Silence",
+      "Midnight Chase"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_062",
+    "name": "Jordan Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "The Last Lark",
+      "Black Mirrorings",
+      "Comic Relief",
+      "Final Transmission",
+      "Harbor Lights",
+      "Black Mirrorings"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_063",
+    "name": "Riley Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Sunny Hearts",
+      "Final Transmission",
+      "Steel Horizon",
+      "Shadows of Mars",
+      "Pulse",
+      "Final Transmission",
+      "Hidden Verdict",
+      "Night of Whispers",
+      "Caf\u00e9 Confessions"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_064",
+    "name": "Kendall Martinez",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Heartstrings",
+      "Black Mirrorings",
+      "Steel Horizon",
+      "Comic Relief",
+      "Shadows of Mars",
+      "Pulse"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_065",
+    "name": "Kendall Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Iron Veil",
+      "Steel Horizon",
+      "Comic Relief",
+      "Pulse",
+      "Pulse",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_066",
+    "name": "Blake Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Moonlight Sonata",
+      "Final Transmission",
+      "Heartstrings",
+      "Echoes of Silence",
+      "Comic Relief",
+      "Final Act",
+      "Whispered Promises"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_067",
+    "name": "Quinn Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "The Last Lark",
+      "Blaze Runner",
+      "Iron Veil",
+      "Hidden Verdict",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_068",
+    "name": "Blake Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Lullaby",
+      "Void Runner",
+      "Caf\u00e9 Confessions",
+      "Caf\u00e9 Confessions",
+      "Starlit Run",
+      "Night of Whispers",
+      "Grimyard",
+      "Creeping Fog",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_069",
+    "name": "Parker Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Sunny Hearts",
+      "Midnight Chase",
+      "Comic Relief",
+      "Night of Whispers",
+      "Caf\u00e9 Confessions",
+      "Grimyard",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_070",
+    "name": "Jamie Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Heartstrings",
+      "Laugh Track",
+      "Moonlight Sonata",
+      "Shadows of Mars",
+      "Hidden Verdict",
+      "Laugh Track",
+      "Echoes of Silence",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_071",
+    "name": "Kendall Lee",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Echoes of Silence",
+      "Shadows of Mars",
+      "Black Mirrorings",
+      "Outbreak Protocol",
+      "Broken Lullaby",
+      "Iron Veil",
+      "Blaze Runner",
+      "Final Act",
+      "Harbor Lights"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_072",
+    "name": "Cameron Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Midnight Chase",
+      "Moonlight Sonata",
+      "Moonlight Sonata",
+      "Final Transmission",
+      "Broken Lullaby",
+      "Shadows of Mars",
+      "Harbor Lights",
+      "Grimyard"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_073",
+    "name": "Rowan Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Moonlight Sonata",
+      "Black Mirrorings",
+      "Laugh Track",
+      "Broken Lullaby",
+      "Moonlight Sonata",
+      "Laugh Track",
+      "Pulse"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_074",
+    "name": "Alex Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Blaze Runner",
+      "Laugh Track",
+      "Outbreak Protocol",
+      "Blaze Runner",
+      "Final Act",
+      "Night of Whispers",
+      "Final Act"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_075",
+    "name": "Rowan Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Grimyard",
+      "Final Act",
+      "Tides of Tomorrow",
+      "Black Mirrorings",
+      "Black Mirrorings",
+      "Void Runner",
+      "Blaze Runner",
+      "Steel Horizon"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_076",
+    "name": "Hayden Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Starlit Run",
+      "Steel Horizon",
+      "The Last Lark",
+      "Final Transmission",
+      "Blaze Runner",
+      "Black Mirrorings",
+      "Outbreak Protocol"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_077",
+    "name": "Drew Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Starlit Run",
+      "Void Runner",
+      "Iron Veil",
+      "Sunny Hearts",
+      "Starlit Run",
+      "Pulse",
+      "Moonlight Sonata",
+      "Black Mirrorings",
+      "Laugh Track",
+      "Broken Lullaby"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_078",
+    "name": "Riley Garcia",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Rogue Signal",
+      "Heartstrings",
+      "Pulse",
+      "Rogue Signal",
+      "Iron Veil"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_079",
+    "name": "Blake Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Starlit Run",
+      "Whispered Promises",
+      "Grimyard",
+      "Broken Lullaby",
+      "Iron Veil"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_080",
+    "name": "Morgan Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Night of Whispers",
+      "Whispered Promises",
+      "Final Transmission",
+      "Night of Whispers",
+      "Comic Relief",
+      "Heartstrings",
+      "Final Act",
+      "Creeping Fog",
+      "Pulse",
+      "Creeping Fog"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_081",
+    "name": "Drew Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Rogue Signal",
+      "Shadows of Mars",
+      "Hidden Verdict",
+      "Creeping Fog",
+      "Midnight Chase",
+      "Final Act",
+      "Pulse",
+      "Harbor Lights"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_082",
+    "name": "Quinn Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Laugh Track",
+      "Final Transmission",
+      "Night of Whispers",
+      "Laugh Track",
+      "Shadows of Mars",
+      "Void Runner",
+      "Final Act",
+      "Black Mirrorings",
+      "Heartstrings",
+      "Steel Horizon"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_083",
+    "name": "Jamie Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Final Act",
+      "Hidden Verdict",
+      "Pulse",
+      "Pulse",
+      "Blaze Runner",
+      "Broken Stars",
+      "Comic Relief"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_084",
+    "name": "Elliot Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Rogue Signal",
+      "Laugh Track",
+      "Blaze Runner",
+      "Broken Lullaby",
+      "Pulse",
+      "Sunny Hearts",
+      "Outbreak Protocol",
+      "Midnight Chase",
+      "Blaze Runner",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_085",
+    "name": "Drew Wilson",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Whispered Promises",
+      "Hidden Verdict",
+      "Comic Relief",
+      "Comic Relief",
+      "Final Transmission",
+      "Whispered Promises",
+      "Outbreak Protocol",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_086",
+    "name": "Skyler Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "The Last Lark",
+      "The Last Lark",
+      "Heartstrings",
+      "Starlit Run",
+      "Creeping Fog"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_087",
+    "name": "Jordan Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Laugh Track",
+      "Final Transmission",
+      "Sunny Hearts",
+      "Shadows of Mars",
+      "Harbor Lights",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_088",
+    "name": "Jordan Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Pulse",
+      "Echoes of Silence",
+      "Rogue Signal",
+      "Steel Horizon",
+      "Outbreak Protocol",
+      "Creeping Fog",
+      "Blaze Runner",
+      "Outbreak Protocol",
+      "Comic Relief",
+      "Tides of Tomorrow"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_089",
+    "name": "Logan Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Sunny Hearts",
+      "Black Mirrorings",
+      "Final Act",
+      "Tides of Tomorrow",
+      "Tides of Tomorrow"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_090",
+    "name": "Jamie Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Heartstrings",
+      "Final Act",
+      "Final Transmission",
+      "Echoes of Silence",
+      "Caf\u00e9 Confessions",
+      "Starlit Run",
+      "The Last Lark",
+      "Sunny Hearts",
+      "Broken Lullaby",
+      "Final Act"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_091",
+    "name": "Blake Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Harbor Lights",
+      "Harbor Lights",
+      "Midnight Chase",
+      "Black Mirrorings",
+      "Final Act",
+      "Final Act",
+      "Harbor Lights",
+      "Creeping Fog"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_092",
+    "name": "Skyler Wilson",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Creeping Fog",
+      "Starlit Run",
+      "Midnight Chase",
+      "Harbor Lights",
+      "The Last Lark",
+      "Starlit Run",
+      "Creeping Fog",
+      "Final Act"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_093",
+    "name": "Casey Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Black Mirrorings",
+      "Harbor Lights",
+      "Caf\u00e9 Confessions",
+      "Pulse",
+      "Broken Lullaby",
+      "Echoes of Silence"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_094",
+    "name": "Morgan Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Starlit Run",
+      "The Last Lark",
+      "Broken Lullaby",
+      "Final Act",
+      "Starlit Run",
+      "Pulse",
+      "Blaze Runner",
+      "Hidden Verdict"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_095",
+    "name": "Kendall Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Final Act",
+      "Black Mirrorings",
+      "Night of Whispers",
+      "Final Act",
+      "Pulse",
+      "Harbor Lights"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_096",
+    "name": "Kendall Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Laugh Track",
+      "Laugh Track",
+      "Tides of Tomorrow",
+      "Iron Veil",
+      "Night of Whispers",
+      "Broken Stars",
+      "Iron Veil",
+      "Caf\u00e9 Confessions",
+      "Steel Horizon",
+      "Shadows of Mars"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_097",
+    "name": "Jordan Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Comic Relief",
+      "Blaze Runner",
+      "Tides of Tomorrow",
+      "Shadows of Mars",
+      "Iron Veil",
+      "Pulse",
+      "Comic Relief"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_098",
+    "name": "Blake Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Caf\u00e9 Confessions",
+      "Broken Stars",
+      "Tides of Tomorrow",
+      "Broken Lullaby",
+      "Laugh Track",
+      "Hidden Verdict",
+      "Midnight Chase",
+      "Caf\u00e9 Confessions",
+      "Heartstrings",
+      "Outbreak Protocol"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_099",
+    "name": "Casey Garcia",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Laugh Track",
+      "Whispered Promises",
+      "Grimyard",
+      "Blaze Runner",
+      "Caf\u00e9 Confessions",
+      "Midnight Chase",
+      "Grimyard"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_100",
+    "name": "Morgan Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "The Last Lark",
+      "Tides of Tomorrow",
+      "Caf\u00e9 Confessions",
+      "Broken Stars",
+      "Pulse",
+      "Laugh Track",
+      "Harbor Lights",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_101",
+    "name": "Skyler Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "The Last Lark",
+      "Creeping Fog",
+      "Laugh Track",
+      "Echoes of Silence",
+      "Rogue Signal",
+      "Harbor Lights",
+      "Steel Horizon",
+      "Harbor Lights",
+      "Final Act",
+      "Whispered Promises"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_102",
+    "name": "Riley Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Starlit Run",
+      "Heartstrings",
+      "Sunny Hearts",
+      "Tides of Tomorrow",
+      "Creeping Fog",
+      "Steel Horizon",
+      "Final Act",
+      "Void Runner",
+      "Echoes of Silence"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_103",
+    "name": "Elliot Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Steel Horizon",
+      "Final Transmission",
+      "Rogue Signal",
+      "Moonlight Sonata",
+      "Pulse",
+      "Hidden Verdict",
+      "Creeping Fog",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_104",
+    "name": "Casey Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Lullaby",
+      "Rogue Signal",
+      "Tides of Tomorrow",
+      "Harbor Lights",
+      "Shadows of Mars",
+      "Harbor Lights",
+      "Sunny Hearts",
+      "Black Mirrorings"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_105",
+    "name": "Taylor Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Harbor Lights",
+      "Night of Whispers",
+      "Whispered Promises",
+      "Grimyard",
+      "Steel Horizon",
+      "Sunny Hearts",
+      "Void Runner",
+      "Heartstrings",
+      "Pulse"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_106",
+    "name": "Cameron Anderson",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Comic Relief",
+      "Hidden Verdict",
+      "Tides of Tomorrow",
+      "Broken Stars",
+      "Night of Whispers",
+      "Grimyard"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_107",
+    "name": "Jamie Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Comic Relief",
+      "Tides of Tomorrow",
+      "Harbor Lights",
+      "Void Runner",
+      "Laugh Track",
+      "Broken Lullaby",
+      "Broken Lullaby",
+      "The Last Lark",
+      "Steel Horizon"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_108",
+    "name": "Cameron Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Stars",
+      "Midnight Chase",
+      "Creeping Fog",
+      "Black Mirrorings",
+      "Steel Horizon",
+      "Creeping Fog",
+      "Rogue Signal",
+      "Broken Lullaby",
+      "Hidden Verdict"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_109",
+    "name": "Rowan Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Moonlight Sonata",
+      "Iron Veil",
+      "Grimyard",
+      "Heartstrings",
+      "Outbreak Protocol",
+      "Rogue Signal",
+      "Pulse",
+      "Final Act",
+      "Outbreak Protocol",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_110",
+    "name": "Avery Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Tides of Tomorrow",
+      "Creeping Fog",
+      "Comic Relief",
+      "Harbor Lights",
+      "Caf\u00e9 Confessions"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_111",
+    "name": "Alex Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Grimyard",
+      "Final Act",
+      "Pulse",
+      "Heartstrings",
+      "Night of Whispers",
+      "Shadows of Mars",
+      "Void Runner"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_112",
+    "name": "Kendall Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Tides of Tomorrow",
+      "Void Runner",
+      "Comic Relief",
+      "Hidden Verdict",
+      "Whispered Promises",
+      "Moonlight Sonata",
+      "Sunny Hearts"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_113",
+    "name": "Riley Brown",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Shadows of Mars",
+      "Rogue Signal",
+      "Creeping Fog",
+      "Final Transmission",
+      "Night of Whispers",
+      "Heartstrings",
+      "The Last Lark",
+      "Final Transmission",
+      "Harbor Lights"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_114",
+    "name": "Hayden Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Grimyard",
+      "Laugh Track",
+      "Broken Stars",
+      "Tides of Tomorrow",
+      "Night of Whispers",
+      "Black Mirrorings",
+      "Broken Lullaby"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_115",
+    "name": "Morgan Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Heartstrings",
+      "Moonlight Sonata",
+      "Echoes of Silence",
+      "Starlit Run",
+      "Blaze Runner",
+      "Hidden Verdict",
+      "Echoes of Silence",
+      "Sunny Hearts"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_116",
+    "name": "Quinn Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Iron Veil",
+      "Black Mirrorings",
+      "Final Act",
+      "Hidden Verdict",
+      "Broken Stars",
+      "Final Act",
+      "Echoes of Silence",
+      "Hidden Verdict"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_117",
+    "name": "Kendall Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Blaze Runner",
+      "Grimyard",
+      "Pulse",
+      "Pulse",
+      "Creeping Fog",
+      "Moonlight Sonata",
+      "Moonlight Sonata",
+      "Night of Whispers",
+      "Starlit Run",
+      "Moonlight Sonata"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_118",
+    "name": "Riley Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Blaze Runner",
+      "Starlit Run",
+      "Night of Whispers",
+      "The Last Lark",
+      "Harbor Lights",
+      "Iron Veil",
+      "Midnight Chase",
+      "Final Transmission",
+      "Echoes of Silence",
+      "Final Act"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_119",
+    "name": "Quinn Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Moonlight Sonata",
+      "Grimyard",
+      "Midnight Chase",
+      "Black Mirrorings",
+      "Whispered Promises",
+      "Starlit Run",
+      "Black Mirrorings"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_120",
+    "name": "Parker Davis",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Grimyard",
+      "The Last Lark",
+      "Whispered Promises",
+      "Void Runner",
+      "Creeping Fog"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_121",
+    "name": "Morgan Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Rogue Signal",
+      "Final Transmission",
+      "Comic Relief",
+      "Comic Relief",
+      "Outbreak Protocol",
+      "Creeping Fog",
+      "Echoes of Silence",
+      "Moonlight Sonata",
+      "Moonlight Sonata",
+      "Comic Relief"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_122",
+    "name": "Rowan Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Void Runner",
+      "Final Transmission",
+      "Final Transmission",
+      "Final Transmission",
+      "Echoes of Silence",
+      "Shadows of Mars",
+      "Steel Horizon"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_123",
+    "name": "Elliot Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Final Act",
+      "Hidden Verdict",
+      "Heartstrings",
+      "Starlit Run",
+      "Hidden Verdict",
+      "Night of Whispers"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_124",
+    "name": "Avery Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Pulse",
+      "Broken Lullaby",
+      "Hidden Verdict",
+      "Broken Stars",
+      "Tides of Tomorrow",
+      "Moonlight Sonata",
+      "Final Act",
+      "Creeping Fog",
+      "Moonlight Sonata",
+      "Outbreak Protocol"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_125",
+    "name": "Taylor Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Rogue Signal",
+      "Iron Veil",
+      "Final Transmission",
+      "Black Mirrorings",
+      "Final Transmission",
+      "Echoes of Silence"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_126",
+    "name": "Elliot Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Midnight Chase",
+      "Caf\u00e9 Confessions",
+      "Starlit Run",
+      "Sunny Hearts",
+      "The Last Lark",
+      "Broken Stars",
+      "Comic Relief",
+      "Final Transmission",
+      "Iron Veil"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_127",
+    "name": "Hayden Smith",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Lullaby",
+      "Outbreak Protocol",
+      "Broken Stars",
+      "Outbreak Protocol",
+      "Harbor Lights",
+      "Laugh Track"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_128",
+    "name": "Quinn Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Void Runner",
+      "Iron Veil",
+      "Black Mirrorings",
+      "Caf\u00e9 Confessions",
+      "Echoes of Silence",
+      "Harbor Lights"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_129",
+    "name": "Morgan Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Iron Veil",
+      "Starlit Run",
+      "Echoes of Silence",
+      "Final Act",
+      "Final Act",
+      "Comic Relief",
+      "Grimyard"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_130",
+    "name": "Rowan Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Moonlight Sonata",
+      "Comic Relief",
+      "Night of Whispers",
+      "Pulse",
+      "Blaze Runner",
+      "Night of Whispers",
+      "Heartstrings",
+      "Creeping Fog",
+      "Iron Veil"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_131",
+    "name": "Reese Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Stars",
+      "Final Transmission",
+      "Creeping Fog",
+      "Midnight Chase",
+      "Pulse",
+      "Final Transmission",
+      "Pulse",
+      "Broken Lullaby",
+      "Broken Stars"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_132",
+    "name": "Hayden Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Void Runner",
+      "Black Mirrorings",
+      "Hidden Verdict",
+      "Moonlight Sonata",
+      "The Last Lark",
+      "Caf\u00e9 Confessions",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_133",
+    "name": "Jordan Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Shadows of Mars",
+      "Night of Whispers",
+      "Midnight Chase",
+      "Echoes of Silence",
+      "Tides of Tomorrow",
+      "Void Runner",
+      "Starlit Run",
+      "Echoes of Silence"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_134",
+    "name": "Reese Anderson",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Moonlight Sonata",
+      "Tides of Tomorrow",
+      "Night of Whispers",
+      "Blaze Runner",
+      "Rogue Signal",
+      "Caf\u00e9 Confessions",
+      "Black Mirrorings"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_135",
+    "name": "Parker Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Pulse",
+      "Laugh Track",
+      "Laugh Track",
+      "Pulse",
+      "Steel Horizon"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_136",
+    "name": "Hayden Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Creeping Fog",
+      "Final Act",
+      "Sunny Hearts",
+      "Final Act",
+      "Rogue Signal",
+      "Blaze Runner",
+      "Steel Horizon"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_137",
+    "name": "Reese Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Caf\u00e9 Confessions",
+      "Grimyard",
+      "Sunny Hearts",
+      "Comic Relief",
+      "Moonlight Sonata",
+      "Starlit Run",
+      "Final Act",
+      "Rogue Signal",
+      "Laugh Track",
+      "Caf\u00e9 Confessions"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_138",
+    "name": "Drew Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Creeping Fog",
+      "Caf\u00e9 Confessions",
+      "Whispered Promises",
+      "Shadows of Mars",
+      "Midnight Chase",
+      "Black Mirrorings"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_139",
+    "name": "Hayden Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Lullaby",
+      "Hidden Verdict",
+      "Void Runner",
+      "Shadows of Mars",
+      "Sunny Hearts",
+      "The Last Lark",
+      "Grimyard"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_140",
+    "name": "Blake Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Caf\u00e9 Confessions",
+      "Creeping Fog",
+      "Creeping Fog",
+      "Hidden Verdict",
+      "Shadows of Mars",
+      "Rogue Signal",
+      "Rogue Signal",
+      "Grimyard",
+      "Echoes of Silence",
+      "Night of Whispers"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_141",
+    "name": "Reese Martinez",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Pulse",
+      "Iron Veil",
+      "Broken Lullaby",
+      "Outbreak Protocol",
+      "Outbreak Protocol",
+      "Final Act",
+      "Whispered Promises",
+      "Caf\u00e9 Confessions",
+      "Steel Horizon",
+      "Black Mirrorings"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_142",
+    "name": "Cameron Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Harbor Lights",
+      "Tides of Tomorrow",
+      "Midnight Chase",
+      "Harbor Lights",
+      "Midnight Chase"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_143",
+    "name": "Jamie Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Night of Whispers",
+      "Midnight Chase",
+      "Outbreak Protocol",
+      "Creeping Fog",
+      "Harbor Lights",
+      "Outbreak Protocol",
+      "Broken Stars"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_144",
+    "name": "Taylor Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Creeping Fog",
+      "Pulse",
+      "Iron Veil",
+      "Shadows of Mars",
+      "Void Runner",
+      "Shadows of Mars",
+      "Grimyard",
+      "Comic Relief",
+      "Laugh Track"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_145",
+    "name": "Avery Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Final Act",
+      "Pulse",
+      "Night of Whispers",
+      "Broken Lullaby",
+      "Grimyard",
+      "Grimyard",
+      "Blaze Runner",
+      "Void Runner"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_146",
+    "name": "Quinn Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "The Last Lark",
+      "Night of Whispers",
+      "Comic Relief",
+      "Tides of Tomorrow",
+      "Broken Lullaby"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_147",
+    "name": "Hayden Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Pulse",
+      "Final Transmission",
+      "Tides of Tomorrow",
+      "Creeping Fog",
+      "Final Act",
+      "Sunny Hearts",
+      "Midnight Chase",
+      "Final Transmission",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_148",
+    "name": "Elliot Martinez",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Grimyard",
+      "Iron Veil",
+      "Sunny Hearts",
+      "Black Mirrorings",
+      "The Last Lark",
+      "Broken Stars",
+      "Heartstrings",
+      "The Last Lark"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_149",
+    "name": "Logan Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Iron Veil",
+      "Blaze Runner",
+      "Pulse",
+      "Heartstrings",
+      "Laugh Track",
+      "Laugh Track",
+      "The Last Lark"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_150",
+    "name": "Rowan Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Echoes of Silence",
+      "Final Act",
+      "Whispered Promises",
+      "Starlit Run",
+      "Broken Lullaby",
+      "Broken Lullaby"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_151",
+    "name": "Blake Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Caf\u00e9 Confessions",
+      "Iron Veil",
+      "Iron Veil",
+      "Outbreak Protocol",
+      "Echoes of Silence",
+      "Night of Whispers"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_152",
+    "name": "Blake Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Rogue Signal",
+      "The Last Lark",
+      "Blaze Runner",
+      "Comic Relief",
+      "Final Act",
+      "Black Mirrorings"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_153",
+    "name": "Taylor Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Lullaby",
+      "Night of Whispers",
+      "Caf\u00e9 Confessions",
+      "Hidden Verdict",
+      "Starlit Run",
+      "Broken Lullaby"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_154",
+    "name": "Hayden Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Echoes of Silence",
+      "Midnight Chase",
+      "Caf\u00e9 Confessions",
+      "Broken Stars",
+      "Shadows of Mars",
+      "Creeping Fog",
+      "Hidden Verdict",
+      "Broken Stars"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_155",
+    "name": "Casey Brown",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Rogue Signal",
+      "Broken Lullaby",
+      "Caf\u00e9 Confessions",
+      "Creeping Fog",
+      "Steel Horizon",
+      "Moonlight Sonata"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_156",
+    "name": "Avery Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Midnight Chase",
+      "Caf\u00e9 Confessions",
+      "Starlit Run",
+      "Broken Lullaby",
+      "Whispered Promises",
+      "Midnight Chase",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_157",
+    "name": "Kendall Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Night of Whispers",
+      "Pulse",
+      "Tides of Tomorrow",
+      "Grimyard",
+      "Void Runner",
+      "Broken Lullaby",
+      "Grimyard",
+      "Pulse",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_158",
+    "name": "Logan Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Tides of Tomorrow",
+      "Echoes of Silence",
+      "Iron Veil",
+      "Tides of Tomorrow",
+      "Creeping Fog",
+      "Midnight Chase",
+      "Laugh Track",
+      "Void Runner",
+      "Night of Whispers"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_159",
+    "name": "Rowan Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "The Last Lark",
+      "Final Transmission",
+      "Comic Relief",
+      "Outbreak Protocol",
+      "Iron Veil",
+      "Heartstrings",
+      "Comic Relief"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_160",
+    "name": "Casey Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Caf\u00e9 Confessions",
+      "Echoes of Silence",
+      "Broken Lullaby",
+      "Whispered Promises",
+      "Sunny Hearts",
+      "Pulse"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_161",
+    "name": "Kendall Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Shadows of Mars",
+      "Laugh Track",
+      "The Last Lark",
+      "Comic Relief",
+      "Starlit Run",
+      "Heartstrings",
+      "Steel Horizon",
+      "Tides of Tomorrow",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_162",
+    "name": "Cameron Lopez",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Grimyard",
+      "Pulse",
+      "Broken Lullaby",
+      "The Last Lark",
+      "Creeping Fog",
+      "Sunny Hearts",
+      "Blaze Runner",
+      "Pulse",
+      "Night of Whispers"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_163",
+    "name": "Cameron Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Caf\u00e9 Confessions",
+      "Blaze Runner",
+      "Broken Stars",
+      "Caf\u00e9 Confessions",
+      "Comic Relief",
+      "Harbor Lights",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_164",
+    "name": "Jamie Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Void Runner",
+      "Black Mirrorings",
+      "Sunny Hearts",
+      "Broken Lullaby",
+      "Night of Whispers",
+      "Harbor Lights",
+      "Moonlight Sonata",
+      "Rogue Signal",
+      "Final Transmission",
+      "The Last Lark"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_165",
+    "name": "Alex Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Grimyard",
+      "Heartstrings",
+      "Harbor Lights",
+      "Hidden Verdict",
+      "Harbor Lights",
+      "Iron Veil"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_166",
+    "name": "Jordan Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Creeping Fog",
+      "Sunny Hearts",
+      "Hidden Verdict",
+      "Tides of Tomorrow",
+      "Sunny Hearts",
+      "The Last Lark",
+      "The Last Lark",
+      "Broken Lullaby",
+      "Moonlight Sonata"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_167",
+    "name": "Hayden Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Rogue Signal",
+      "Broken Lullaby",
+      "Grimyard",
+      "Final Act",
+      "Hidden Verdict",
+      "Pulse",
+      "Pulse",
+      "Outbreak Protocol",
+      "Blaze Runner",
+      "Grimyard"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_168",
+    "name": "Skyler Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Blaze Runner",
+      "Comic Relief",
+      "Blaze Runner",
+      "Hidden Verdict",
+      "Laugh Track"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_169",
+    "name": "Drew Davis",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Lullaby",
+      "Iron Veil",
+      "Creeping Fog",
+      "Iron Veil",
+      "Grimyard",
+      "Final Act",
+      "Final Transmission",
+      "Final Act",
+      "Broken Stars",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_170",
+    "name": "Logan Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Harbor Lights",
+      "Broken Stars",
+      "Hidden Verdict",
+      "Creeping Fog",
+      "Moonlight Sonata",
+      "Whispered Promises",
+      "Caf\u00e9 Confessions"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_171",
+    "name": "Kendall Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Final Transmission",
+      "Caf\u00e9 Confessions",
+      "Moonlight Sonata",
+      "Harbor Lights",
+      "Moonlight Sonata",
+      "Final Act",
+      "Pulse",
+      "Midnight Chase",
+      "Pulse"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_172",
+    "name": "Kendall Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Tides of Tomorrow",
+      "Comic Relief",
+      "Shadows of Mars",
+      "Sunny Hearts",
+      "Harbor Lights"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_173",
+    "name": "Morgan Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Steel Horizon",
+      "Grimyard",
+      "Tides of Tomorrow",
+      "Rogue Signal",
+      "Rogue Signal",
+      "Shadows of Mars",
+      "Rogue Signal",
+      "Void Runner"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_174",
+    "name": "Alex Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Grimyard",
+      "The Last Lark",
+      "Night of Whispers",
+      "Sunny Hearts",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_175",
+    "name": "Blake Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Caf\u00e9 Confessions",
+      "Grimyard",
+      "The Last Lark",
+      "Final Act",
+      "Echoes of Silence",
+      "Echoes of Silence",
+      "Moonlight Sonata"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_176",
+    "name": "Quinn Martinez",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Steel Horizon",
+      "Hidden Verdict",
+      "Broken Lullaby",
+      "Midnight Chase",
+      "Black Mirrorings",
+      "Sunny Hearts",
+      "Comic Relief",
+      "Harbor Lights"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_177",
+    "name": "Avery Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Hidden Verdict",
+      "Grimyard",
+      "The Last Lark",
+      "Heartstrings",
+      "Creeping Fog",
+      "Echoes of Silence",
+      "Broken Lullaby",
+      "Broken Stars"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_178",
+    "name": "Morgan Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Echoes of Silence",
+      "Tides of Tomorrow",
+      "Shadows of Mars",
+      "Pulse",
+      "Comic Relief",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_179",
+    "name": "Quinn Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Whispered Promises",
+      "Harbor Lights",
+      "Echoes of Silence",
+      "Rogue Signal",
+      "The Last Lark",
+      "Sunny Hearts",
+      "Caf\u00e9 Confessions"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_180",
+    "name": "Alex Smith",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Grimyard",
+      "Hidden Verdict",
+      "Caf\u00e9 Confessions",
+      "Laugh Track",
+      "Shadows of Mars"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_181",
+    "name": "Kendall Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Outbreak Protocol",
+      "Night of Whispers",
+      "Blaze Runner",
+      "Heartstrings",
+      "Steel Horizon"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_182",
+    "name": "Jordan Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Shadows of Mars",
+      "Iron Veil",
+      "Broken Lullaby",
+      "Blaze Runner",
+      "Hidden Verdict"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_183",
+    "name": "Quinn Martinez",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Stars",
+      "Shadows of Mars",
+      "Hidden Verdict",
+      "Black Mirrorings",
+      "Harbor Lights",
+      "Comic Relief",
+      "Final Transmission"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_184",
+    "name": "Avery Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Broken Lullaby",
+      "Comic Relief",
+      "Void Runner",
+      "The Last Lark",
+      "Hidden Verdict",
+      "Sunny Hearts",
+      "Pulse",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_185",
+    "name": "Skyler Lee",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Void Runner",
+      "Creeping Fog",
+      "Caf\u00e9 Confessions",
+      "Final Transmission",
+      "Midnight Chase",
+      "Midnight Chase",
+      "Sunny Hearts",
+      "Echoes of Silence",
+      "The Last Lark",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_186",
+    "name": "Casey Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Comic Relief",
+      "Starlit Run",
+      "Pulse",
+      "Heartstrings",
+      "Outbreak Protocol",
+      "Heartstrings"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_187",
+    "name": "Parker Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Creeping Fog",
+      "Starlit Run",
+      "Midnight Chase",
+      "Starlit Run",
+      "Tides of Tomorrow",
+      "Midnight Chase"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_188",
+    "name": "Casey Davis",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Night of Whispers",
+      "Echoes of Silence",
+      "Creeping Fog",
+      "Moonlight Sonata",
+      "Caf\u00e9 Confessions",
+      "Shadows of Mars",
+      "The Last Lark",
+      "Starlit Run"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_189",
+    "name": "Drew Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "The Last Lark",
+      "Final Act",
+      "Comic Relief",
+      "Comic Relief",
+      "Void Runner"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_190",
+    "name": "Jamie Garcia",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Sunny Hearts",
+      "Caf\u00e9 Confessions",
+      "Moonlight Sonata",
+      "Broken Lullaby",
+      "Shadows of Mars",
+      "Caf\u00e9 Confessions",
+      "The Last Lark"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_191",
+    "name": "Skyler Johnson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Shadows of Mars",
+      "Final Transmission",
+      "Shadows of Mars",
+      "Comic Relief",
+      "Rogue Signal",
+      "Starlit Run"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_192",
+    "name": "Elliot Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Comic Relief",
+      "Night of Whispers",
+      "Comic Relief",
+      "Comic Relief",
+      "Broken Stars",
+      "Starlit Run",
+      "Grimyard",
+      "Steel Horizon"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_193",
+    "name": "Drew Lopez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Blaze Runner",
+      "Steel Horizon",
+      "Sunny Hearts",
+      "Steel Horizon",
+      "Laugh Track",
+      "Void Runner",
+      "Midnight Chase",
+      "Pulse",
+      "Starlit Run",
+      "Final Transmission"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_194",
+    "name": "Avery Garcia",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.667,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Steel Horizon",
+      "Broken Lullaby",
+      "Tides of Tomorrow",
+      "Outbreak Protocol",
+      "Caf\u00e9 Confessions",
+      "Midnight Chase",
+      "Caf\u00e9 Confessions",
+      "Blaze Runner"
+    ],
+    "profile_text": "Enjoys drama and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_195",
+    "name": "Alex Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.667,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Whispered Promises",
+      "Grimyard",
+      "Sunny Hearts",
+      "Starlit Run",
+      "Pulse",
+      "Caf\u00e9 Confessions",
+      "Shadows of Mars",
+      "Tides of Tomorrow"
+    ],
+    "profile_text": "Enjoys scifi and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_196",
+    "name": "Quinn Martinez",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.667
+    },
+    "watch_history": [
+      "Shadows of Mars",
+      "Tides of Tomorrow",
+      "Broken Lullaby",
+      "Heartstrings",
+      "Iron Veil",
+      "Final Act"
+    ],
+    "profile_text": "Enjoys horror and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_197",
+    "name": "Reese Johnson",
+    "genre_affinity": {
+      "action": 0.667,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Midnight Chase",
+      "Night of Whispers",
+      "Steel Horizon",
+      "Blaze Runner",
+      "Black Mirrorings",
+      "Pulse",
+      "Rogue Signal"
+    ],
+    "profile_text": "Enjoys action and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_198",
+    "name": "Casey Brown",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.667,
+      "thriller": 0.056,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Hidden Verdict",
+      "Whispered Promises",
+      "Echoes of Silence",
+      "Void Runner",
+      "Heartstrings",
+      "Final Transmission"
+    ],
+    "profile_text": "Enjoys romance and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_199",
+    "name": "Taylor Anderson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.667,
+      "comedy": 0.056,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Hidden Verdict",
+      "Caf\u00e9 Confessions",
+      "Pulse",
+      "Heartstrings",
+      "Broken Lullaby",
+      "Final Act",
+      "Midnight Chase",
+      "Night of Whispers",
+      "Iron Veil"
+    ],
+    "profile_text": "Enjoys thriller and similar genres; prefers engaging, character-led stories."
+  },
+  {
+    "user_id": "user_200",
+    "name": "Jordan Wilson",
+    "genre_affinity": {
+      "action": 0.056,
+      "romance": 0.056,
+      "thriller": 0.056,
+      "comedy": 0.667,
+      "drama": 0.056,
+      "scifi": 0.056,
+      "horror": 0.056
+    },
+    "watch_history": [
+      "Echoes of Silence",
+      "Midnight Chase",
+      "Moonlight Sonata",
+      "Creeping Fog",
+      "Broken Stars",
+      "Grimyard",
+      "Shadows of Mars"
+    ],
+    "profile_text": "Enjoys comedy and similar genres; prefers engaging, character-led stories."
+  }
+]

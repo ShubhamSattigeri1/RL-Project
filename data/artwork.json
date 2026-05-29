@@ -1,0 +1,1502 @@
+[
+  {
+    "artwork_id": "art_001",
+    "content_id": "content_001",
+    "variant_index": 0,
+    "focal_point": "explosion_action",
+    "mood": "epic",
+    "text_overlay": "Nothing is as it seems",
+    "description": "ensemble_cast with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork1/400/400"
+  },
+  {
+    "artwork_id": "art_002",
+    "content_id": "content_001",
+    "variant_index": 1,
+    "focal_point": "romantic_leads",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "solo_hero with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork2/400/400"
+  },
+  {
+    "artwork_id": "art_003",
+    "content_id": "content_001",
+    "variant_index": 2,
+    "focal_point": "explosion_action",
+    "mood": "epic",
+    "text_overlay": "The city burns tonight",
+    "description": "villain_close_up with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork3/400/400"
+  },
+  {
+    "artwork_id": "art_004",
+    "content_id": "content_001",
+    "variant_index": 3,
+    "focal_point": "ensemble_cast",
+    "mood": "comedic",
+    "text_overlay": "A secret revealed",
+    "description": "romantic_leads with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork4/400/400"
+  },
+  {
+    "artwork_id": "art_005",
+    "content_id": "content_001",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "mysterious",
+    "text_overlay": "Nothing is as it seems",
+    "description": "villain_close_up with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork5/400/400"
+  },
+  {
+    "artwork_id": "art_006",
+    "content_id": "content_002",
+    "variant_index": 0,
+    "focal_point": "villain_close_up",
+    "mood": "mysterious",
+    "text_overlay": "A secret revealed",
+    "description": "romantic_leads with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork6/400/400"
+  },
+  {
+    "artwork_id": "art_007",
+    "content_id": "content_002",
+    "variant_index": 1,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "The city burns tonight",
+    "description": "solo_hero with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork7/400/400"
+  },
+  {
+    "artwork_id": "art_008",
+    "content_id": "content_002",
+    "variant_index": 2,
+    "focal_point": "solo_hero",
+    "mood": "mysterious",
+    "text_overlay": "Love conquers all",
+    "description": "solo_hero with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork8/400/400"
+  },
+  {
+    "artwork_id": "art_009",
+    "content_id": "content_002",
+    "variant_index": 3,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "The city burns tonight",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork9/400/400"
+  },
+  {
+    "artwork_id": "art_010",
+    "content_id": "content_002",
+    "variant_index": 4,
+    "focal_point": "explosion_action",
+    "mood": "mysterious",
+    "text_overlay": "Only one survives",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork10/400/400"
+  },
+  {
+    "artwork_id": "art_011",
+    "content_id": "content_003",
+    "variant_index": 0,
+    "focal_point": "villain_close_up",
+    "mood": "epic",
+    "text_overlay": "Only one survives",
+    "description": "villain_close_up with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork11/400/400"
+  },
+  {
+    "artwork_id": "art_012",
+    "content_id": "content_003",
+    "variant_index": 1,
+    "focal_point": "solo_hero",
+    "mood": "warm",
+    "text_overlay": "Nothing is as it seems",
+    "description": "explosion_action with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork12/400/400"
+  },
+  {
+    "artwork_id": "art_013",
+    "content_id": "content_003",
+    "variant_index": 2,
+    "focal_point": "romantic_leads",
+    "mood": "epic",
+    "text_overlay": "A secret revealed",
+    "description": "romantic_leads with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork13/400/400"
+  },
+  {
+    "artwork_id": "art_014",
+    "content_id": "content_003",
+    "variant_index": 3,
+    "focal_point": "villain_close_up",
+    "mood": "intense",
+    "text_overlay": "Only one survives",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork14/400/400"
+  },
+  {
+    "artwork_id": "art_015",
+    "content_id": "content_003",
+    "variant_index": 4,
+    "focal_point": "villain_close_up",
+    "mood": "intense",
+    "text_overlay": "A secret revealed",
+    "description": "villain_close_up with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork15/400/400"
+  },
+  {
+    "artwork_id": "art_016",
+    "content_id": "content_004",
+    "variant_index": 0,
+    "focal_point": "solo_hero",
+    "mood": "intense",
+    "text_overlay": "Love conquers all",
+    "description": "villain_close_up with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork16/400/400"
+  },
+  {
+    "artwork_id": "art_017",
+    "content_id": "content_004",
+    "variant_index": 1,
+    "focal_point": "solo_hero",
+    "mood": "epic",
+    "text_overlay": "Only one survives",
+    "description": "romantic_leads with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork17/400/400"
+  },
+  {
+    "artwork_id": "art_018",
+    "content_id": "content_004",
+    "variant_index": 2,
+    "focal_point": "villain_close_up",
+    "mood": "mysterious",
+    "text_overlay": "A secret revealed",
+    "description": "ensemble_cast with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork18/400/400"
+  },
+  {
+    "artwork_id": "art_019",
+    "content_id": "content_004",
+    "variant_index": 3,
+    "focal_point": "romantic_leads",
+    "mood": "mysterious",
+    "text_overlay": "Nothing is as it seems",
+    "description": "solo_hero with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork19/400/400"
+  },
+  {
+    "artwork_id": "art_020",
+    "content_id": "content_004",
+    "variant_index": 4,
+    "focal_point": "explosion_action",
+    "mood": "mysterious",
+    "text_overlay": "The city burns tonight",
+    "description": "romantic_leads with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork20/400/400"
+  },
+  {
+    "artwork_id": "art_021",
+    "content_id": "content_005",
+    "variant_index": 0,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "Love conquers all",
+    "description": "romantic_leads with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork21/400/400"
+  },
+  {
+    "artwork_id": "art_022",
+    "content_id": "content_005",
+    "variant_index": 1,
+    "focal_point": "ensemble_cast",
+    "mood": "warm",
+    "text_overlay": "Love conquers all",
+    "description": "solo_hero with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork22/400/400"
+  },
+  {
+    "artwork_id": "art_023",
+    "content_id": "content_005",
+    "variant_index": 2,
+    "focal_point": "romantic_leads",
+    "mood": "mysterious",
+    "text_overlay": "The city burns tonight",
+    "description": "explosion_action with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork23/400/400"
+  },
+  {
+    "artwork_id": "art_024",
+    "content_id": "content_005",
+    "variant_index": 3,
+    "focal_point": "explosion_action",
+    "mood": "epic",
+    "text_overlay": "A secret revealed",
+    "description": "ensemble_cast with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork24/400/400"
+  },
+  {
+    "artwork_id": "art_025",
+    "content_id": "content_005",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "comedic",
+    "text_overlay": "Love conquers all",
+    "description": "ensemble_cast with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork25/400/400"
+  },
+  {
+    "artwork_id": "art_026",
+    "content_id": "content_006",
+    "variant_index": 0,
+    "focal_point": "explosion_action",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "explosion_action with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork26/400/400"
+  },
+  {
+    "artwork_id": "art_027",
+    "content_id": "content_006",
+    "variant_index": 1,
+    "focal_point": "villain_close_up",
+    "mood": "epic",
+    "text_overlay": "Love conquers all",
+    "description": "explosion_action with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork27/400/400"
+  },
+  {
+    "artwork_id": "art_028",
+    "content_id": "content_006",
+    "variant_index": 2,
+    "focal_point": "solo_hero",
+    "mood": "warm",
+    "text_overlay": "The city burns tonight",
+    "description": "romantic_leads with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork28/400/400"
+  },
+  {
+    "artwork_id": "art_029",
+    "content_id": "content_006",
+    "variant_index": 3,
+    "focal_point": "villain_close_up",
+    "mood": "intense",
+    "text_overlay": "Nothing is as it seems",
+    "description": "explosion_action with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork29/400/400"
+  },
+  {
+    "artwork_id": "art_030",
+    "content_id": "content_006",
+    "variant_index": 4,
+    "focal_point": "solo_hero",
+    "mood": "epic",
+    "text_overlay": "Nothing is as it seems",
+    "description": "romantic_leads with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork30/400/400"
+  },
+  {
+    "artwork_id": "art_031",
+    "content_id": "content_007",
+    "variant_index": 0,
+    "focal_point": "villain_close_up",
+    "mood": "warm",
+    "text_overlay": "A secret revealed",
+    "description": "villain_close_up with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork31/400/400"
+  },
+  {
+    "artwork_id": "art_032",
+    "content_id": "content_007",
+    "variant_index": 1,
+    "focal_point": "solo_hero",
+    "mood": "intense",
+    "text_overlay": "Love conquers all",
+    "description": "romantic_leads with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork32/400/400"
+  },
+  {
+    "artwork_id": "art_033",
+    "content_id": "content_007",
+    "variant_index": 2,
+    "focal_point": "solo_hero",
+    "mood": "comedic",
+    "text_overlay": "A secret revealed",
+    "description": "romantic_leads with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork33/400/400"
+  },
+  {
+    "artwork_id": "art_034",
+    "content_id": "content_007",
+    "variant_index": 3,
+    "focal_point": "solo_hero",
+    "mood": "intense",
+    "text_overlay": "Love conquers all",
+    "description": "ensemble_cast with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork34/400/400"
+  },
+  {
+    "artwork_id": "art_035",
+    "content_id": "content_007",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "Nothing is as it seems",
+    "description": "villain_close_up with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork35/400/400"
+  },
+  {
+    "artwork_id": "art_036",
+    "content_id": "content_008",
+    "variant_index": 0,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "explosion_action with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork36/400/400"
+  },
+  {
+    "artwork_id": "art_037",
+    "content_id": "content_008",
+    "variant_index": 1,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "Love conquers all",
+    "description": "solo_hero with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork37/400/400"
+  },
+  {
+    "artwork_id": "art_038",
+    "content_id": "content_008",
+    "variant_index": 2,
+    "focal_point": "explosion_action",
+    "mood": "epic",
+    "text_overlay": "Only one survives",
+    "description": "romantic_leads with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork38/400/400"
+  },
+  {
+    "artwork_id": "art_039",
+    "content_id": "content_008",
+    "variant_index": 3,
+    "focal_point": "romantic_leads",
+    "mood": "mysterious",
+    "text_overlay": "Love conquers all",
+    "description": "solo_hero with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork39/400/400"
+  },
+  {
+    "artwork_id": "art_040",
+    "content_id": "content_008",
+    "variant_index": 4,
+    "focal_point": "explosion_action",
+    "mood": "warm",
+    "text_overlay": "Nothing is as it seems",
+    "description": "romantic_leads with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork40/400/400"
+  },
+  {
+    "artwork_id": "art_041",
+    "content_id": "content_009",
+    "variant_index": 0,
+    "focal_point": "romantic_leads",
+    "mood": "comedic",
+    "text_overlay": "A secret revealed",
+    "description": "solo_hero with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork41/400/400"
+  },
+  {
+    "artwork_id": "art_042",
+    "content_id": "content_009",
+    "variant_index": 1,
+    "focal_point": "ensemble_cast",
+    "mood": "epic",
+    "text_overlay": "The city burns tonight",
+    "description": "romantic_leads with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork42/400/400"
+  },
+  {
+    "artwork_id": "art_043",
+    "content_id": "content_009",
+    "variant_index": 2,
+    "focal_point": "romantic_leads",
+    "mood": "intense",
+    "text_overlay": "Nothing is as it seems",
+    "description": "romantic_leads with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork43/400/400"
+  },
+  {
+    "artwork_id": "art_044",
+    "content_id": "content_009",
+    "variant_index": 3,
+    "focal_point": "explosion_action",
+    "mood": "warm",
+    "text_overlay": "Only one survives",
+    "description": "solo_hero with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork44/400/400"
+  },
+  {
+    "artwork_id": "art_045",
+    "content_id": "content_009",
+    "variant_index": 4,
+    "focal_point": "romantic_leads",
+    "mood": "warm",
+    "text_overlay": "Only one survives",
+    "description": "romantic_leads with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork45/400/400"
+  },
+  {
+    "artwork_id": "art_046",
+    "content_id": "content_010",
+    "variant_index": 0,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "The city burns tonight",
+    "description": "ensemble_cast with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork46/400/400"
+  },
+  {
+    "artwork_id": "art_047",
+    "content_id": "content_010",
+    "variant_index": 1,
+    "focal_point": "villain_close_up",
+    "mood": "intense",
+    "text_overlay": "The city burns tonight",
+    "description": "solo_hero with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork47/400/400"
+  },
+  {
+    "artwork_id": "art_048",
+    "content_id": "content_010",
+    "variant_index": 2,
+    "focal_point": "romantic_leads",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "ensemble_cast with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork48/400/400"
+  },
+  {
+    "artwork_id": "art_049",
+    "content_id": "content_010",
+    "variant_index": 3,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "Nothing is as it seems",
+    "description": "villain_close_up with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork49/400/400"
+  },
+  {
+    "artwork_id": "art_050",
+    "content_id": "content_010",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "mysterious",
+    "text_overlay": "Only one survives",
+    "description": "villain_close_up with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork50/400/400"
+  },
+  {
+    "artwork_id": "art_051",
+    "content_id": "content_011",
+    "variant_index": 0,
+    "focal_point": "solo_hero",
+    "mood": "warm",
+    "text_overlay": "Nothing is as it seems",
+    "description": "explosion_action with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork51/400/400"
+  },
+  {
+    "artwork_id": "art_052",
+    "content_id": "content_011",
+    "variant_index": 1,
+    "focal_point": "explosion_action",
+    "mood": "epic",
+    "text_overlay": "Only one survives",
+    "description": "explosion_action with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork52/400/400"
+  },
+  {
+    "artwork_id": "art_053",
+    "content_id": "content_011",
+    "variant_index": 2,
+    "focal_point": "explosion_action",
+    "mood": "warm",
+    "text_overlay": "Only one survives",
+    "description": "ensemble_cast with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork53/400/400"
+  },
+  {
+    "artwork_id": "art_054",
+    "content_id": "content_011",
+    "variant_index": 3,
+    "focal_point": "solo_hero",
+    "mood": "warm",
+    "text_overlay": "Love conquers all",
+    "description": "ensemble_cast with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork54/400/400"
+  },
+  {
+    "artwork_id": "art_055",
+    "content_id": "content_011",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "mysterious",
+    "text_overlay": "A secret revealed",
+    "description": "explosion_action with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork55/400/400"
+  },
+  {
+    "artwork_id": "art_056",
+    "content_id": "content_012",
+    "variant_index": 0,
+    "focal_point": "explosion_action",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "villain_close_up with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork56/400/400"
+  },
+  {
+    "artwork_id": "art_057",
+    "content_id": "content_012",
+    "variant_index": 1,
+    "focal_point": "solo_hero",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "romantic_leads with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork57/400/400"
+  },
+  {
+    "artwork_id": "art_058",
+    "content_id": "content_012",
+    "variant_index": 2,
+    "focal_point": "romantic_leads",
+    "mood": "intense",
+    "text_overlay": "The city burns tonight",
+    "description": "villain_close_up with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork58/400/400"
+  },
+  {
+    "artwork_id": "art_059",
+    "content_id": "content_012",
+    "variant_index": 3,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "villain_close_up with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork59/400/400"
+  },
+  {
+    "artwork_id": "art_060",
+    "content_id": "content_012",
+    "variant_index": 4,
+    "focal_point": "romantic_leads",
+    "mood": "comedic",
+    "text_overlay": "Nothing is as it seems",
+    "description": "villain_close_up with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork60/400/400"
+  },
+  {
+    "artwork_id": "art_061",
+    "content_id": "content_013",
+    "variant_index": 0,
+    "focal_point": "explosion_action",
+    "mood": "comedic",
+    "text_overlay": "Nothing is as it seems",
+    "description": "villain_close_up with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork61/400/400"
+  },
+  {
+    "artwork_id": "art_062",
+    "content_id": "content_013",
+    "variant_index": 1,
+    "focal_point": "explosion_action",
+    "mood": "comedic",
+    "text_overlay": "Love conquers all",
+    "description": "villain_close_up with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork62/400/400"
+  },
+  {
+    "artwork_id": "art_063",
+    "content_id": "content_013",
+    "variant_index": 2,
+    "focal_point": "villain_close_up",
+    "mood": "epic",
+    "text_overlay": "Love conquers all",
+    "description": "explosion_action with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork63/400/400"
+  },
+  {
+    "artwork_id": "art_064",
+    "content_id": "content_013",
+    "variant_index": 3,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "A secret revealed",
+    "description": "villain_close_up with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork64/400/400"
+  },
+  {
+    "artwork_id": "art_065",
+    "content_id": "content_013",
+    "variant_index": 4,
+    "focal_point": "solo_hero",
+    "mood": "comedic",
+    "text_overlay": "The city burns tonight",
+    "description": "villain_close_up with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork65/400/400"
+  },
+  {
+    "artwork_id": "art_066",
+    "content_id": "content_014",
+    "variant_index": 0,
+    "focal_point": "ensemble_cast",
+    "mood": "mysterious",
+    "text_overlay": "A secret revealed",
+    "description": "ensemble_cast with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork66/400/400"
+  },
+  {
+    "artwork_id": "art_067",
+    "content_id": "content_014",
+    "variant_index": 1,
+    "focal_point": "ensemble_cast",
+    "mood": "epic",
+    "text_overlay": "Love conquers all",
+    "description": "explosion_action with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork67/400/400"
+  },
+  {
+    "artwork_id": "art_068",
+    "content_id": "content_014",
+    "variant_index": 2,
+    "focal_point": "explosion_action",
+    "mood": "epic",
+    "text_overlay": "Only one survives",
+    "description": "ensemble_cast with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork68/400/400"
+  },
+  {
+    "artwork_id": "art_069",
+    "content_id": "content_014",
+    "variant_index": 3,
+    "focal_point": "romantic_leads",
+    "mood": "mysterious",
+    "text_overlay": "A secret revealed",
+    "description": "villain_close_up with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork69/400/400"
+  },
+  {
+    "artwork_id": "art_070",
+    "content_id": "content_014",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "The city burns tonight",
+    "description": "ensemble_cast with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork70/400/400"
+  },
+  {
+    "artwork_id": "art_071",
+    "content_id": "content_015",
+    "variant_index": 0,
+    "focal_point": "explosion_action",
+    "mood": "warm",
+    "text_overlay": "Nothing is as it seems",
+    "description": "explosion_action with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork71/400/400"
+  },
+  {
+    "artwork_id": "art_072",
+    "content_id": "content_015",
+    "variant_index": 1,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "A secret revealed",
+    "description": "ensemble_cast with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork72/400/400"
+  },
+  {
+    "artwork_id": "art_073",
+    "content_id": "content_015",
+    "variant_index": 2,
+    "focal_point": "ensemble_cast",
+    "mood": "comedic",
+    "text_overlay": "Love conquers all",
+    "description": "explosion_action with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork73/400/400"
+  },
+  {
+    "artwork_id": "art_074",
+    "content_id": "content_015",
+    "variant_index": 3,
+    "focal_point": "ensemble_cast",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "romantic_leads with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork74/400/400"
+  },
+  {
+    "artwork_id": "art_075",
+    "content_id": "content_015",
+    "variant_index": 4,
+    "focal_point": "explosion_action",
+    "mood": "mysterious",
+    "text_overlay": "A secret revealed",
+    "description": "romantic_leads with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork75/400/400"
+  },
+  {
+    "artwork_id": "art_076",
+    "content_id": "content_016",
+    "variant_index": 0,
+    "focal_point": "explosion_action",
+    "mood": "warm",
+    "text_overlay": "The city burns tonight",
+    "description": "romantic_leads with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork76/400/400"
+  },
+  {
+    "artwork_id": "art_077",
+    "content_id": "content_016",
+    "variant_index": 1,
+    "focal_point": "explosion_action",
+    "mood": "mysterious",
+    "text_overlay": "Only one survives",
+    "description": "explosion_action with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork77/400/400"
+  },
+  {
+    "artwork_id": "art_078",
+    "content_id": "content_016",
+    "variant_index": 2,
+    "focal_point": "ensemble_cast",
+    "mood": "epic",
+    "text_overlay": "A secret revealed",
+    "description": "solo_hero with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork78/400/400"
+  },
+  {
+    "artwork_id": "art_079",
+    "content_id": "content_016",
+    "variant_index": 3,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "A secret revealed",
+    "description": "solo_hero with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork79/400/400"
+  },
+  {
+    "artwork_id": "art_080",
+    "content_id": "content_016",
+    "variant_index": 4,
+    "focal_point": "solo_hero",
+    "mood": "mysterious",
+    "text_overlay": "A secret revealed",
+    "description": "ensemble_cast with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork80/400/400"
+  },
+  {
+    "artwork_id": "art_081",
+    "content_id": "content_017",
+    "variant_index": 0,
+    "focal_point": "solo_hero",
+    "mood": "epic",
+    "text_overlay": "Love conquers all",
+    "description": "solo_hero with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork81/400/400"
+  },
+  {
+    "artwork_id": "art_082",
+    "content_id": "content_017",
+    "variant_index": 1,
+    "focal_point": "ensemble_cast",
+    "mood": "mysterious",
+    "text_overlay": "Nothing is as it seems",
+    "description": "solo_hero with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork82/400/400"
+  },
+  {
+    "artwork_id": "art_083",
+    "content_id": "content_017",
+    "variant_index": 2,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "The city burns tonight",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork83/400/400"
+  },
+  {
+    "artwork_id": "art_084",
+    "content_id": "content_017",
+    "variant_index": 3,
+    "focal_point": "ensemble_cast",
+    "mood": "comedic",
+    "text_overlay": "Love conquers all",
+    "description": "romantic_leads with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork84/400/400"
+  },
+  {
+    "artwork_id": "art_085",
+    "content_id": "content_017",
+    "variant_index": 4,
+    "focal_point": "villain_close_up",
+    "mood": "mysterious",
+    "text_overlay": "Love conquers all",
+    "description": "explosion_action with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork85/400/400"
+  },
+  {
+    "artwork_id": "art_086",
+    "content_id": "content_018",
+    "variant_index": 0,
+    "focal_point": "romantic_leads",
+    "mood": "mysterious",
+    "text_overlay": "The city burns tonight",
+    "description": "villain_close_up with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork86/400/400"
+  },
+  {
+    "artwork_id": "art_087",
+    "content_id": "content_018",
+    "variant_index": 1,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "A secret revealed",
+    "description": "ensemble_cast with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork87/400/400"
+  },
+  {
+    "artwork_id": "art_088",
+    "content_id": "content_018",
+    "variant_index": 2,
+    "focal_point": "romantic_leads",
+    "mood": "intense",
+    "text_overlay": "Nothing is as it seems",
+    "description": "ensemble_cast with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork88/400/400"
+  },
+  {
+    "artwork_id": "art_089",
+    "content_id": "content_018",
+    "variant_index": 3,
+    "focal_point": "solo_hero",
+    "mood": "mysterious",
+    "text_overlay": "Love conquers all",
+    "description": "solo_hero with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork89/400/400"
+  },
+  {
+    "artwork_id": "art_090",
+    "content_id": "content_018",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "mysterious",
+    "text_overlay": "The city burns tonight",
+    "description": "romantic_leads with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork90/400/400"
+  },
+  {
+    "artwork_id": "art_091",
+    "content_id": "content_019",
+    "variant_index": 0,
+    "focal_point": "romantic_leads",
+    "mood": "mysterious",
+    "text_overlay": "Nothing is as it seems",
+    "description": "explosion_action with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork91/400/400"
+  },
+  {
+    "artwork_id": "art_092",
+    "content_id": "content_019",
+    "variant_index": 1,
+    "focal_point": "explosion_action",
+    "mood": "epic",
+    "text_overlay": "Nothing is as it seems",
+    "description": "villain_close_up with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork92/400/400"
+  },
+  {
+    "artwork_id": "art_093",
+    "content_id": "content_019",
+    "variant_index": 2,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "explosion_action with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork93/400/400"
+  },
+  {
+    "artwork_id": "art_094",
+    "content_id": "content_019",
+    "variant_index": 3,
+    "focal_point": "villain_close_up",
+    "mood": "epic",
+    "text_overlay": "A secret revealed",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork94/400/400"
+  },
+  {
+    "artwork_id": "art_095",
+    "content_id": "content_019",
+    "variant_index": 4,
+    "focal_point": "solo_hero",
+    "mood": "epic",
+    "text_overlay": "Nothing is as it seems",
+    "description": "romantic_leads with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork95/400/400"
+  },
+  {
+    "artwork_id": "art_096",
+    "content_id": "content_020",
+    "variant_index": 0,
+    "focal_point": "explosion_action",
+    "mood": "mysterious",
+    "text_overlay": "Only one survives",
+    "description": "ensemble_cast with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork96/400/400"
+  },
+  {
+    "artwork_id": "art_097",
+    "content_id": "content_020",
+    "variant_index": 1,
+    "focal_point": "ensemble_cast",
+    "mood": "warm",
+    "text_overlay": "Only one survives",
+    "description": "romantic_leads with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork97/400/400"
+  },
+  {
+    "artwork_id": "art_098",
+    "content_id": "content_020",
+    "variant_index": 2,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "Only one survives",
+    "description": "ensemble_cast with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork98/400/400"
+  },
+  {
+    "artwork_id": "art_099",
+    "content_id": "content_020",
+    "variant_index": 3,
+    "focal_point": "ensemble_cast",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "ensemble_cast with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork99/400/400"
+  },
+  {
+    "artwork_id": "art_100",
+    "content_id": "content_020",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "mysterious",
+    "text_overlay": "Love conquers all",
+    "description": "ensemble_cast with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork100/400/400"
+  },
+  {
+    "artwork_id": "art_101",
+    "content_id": "content_021",
+    "variant_index": 0,
+    "focal_point": "villain_close_up",
+    "mood": "epic",
+    "text_overlay": "The city burns tonight",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork101/400/400"
+  },
+  {
+    "artwork_id": "art_102",
+    "content_id": "content_021",
+    "variant_index": 1,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "A secret revealed",
+    "description": "villain_close_up with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork102/400/400"
+  },
+  {
+    "artwork_id": "art_103",
+    "content_id": "content_021",
+    "variant_index": 2,
+    "focal_point": "romantic_leads",
+    "mood": "epic",
+    "text_overlay": "Love conquers all",
+    "description": "solo_hero with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork103/400/400"
+  },
+  {
+    "artwork_id": "art_104",
+    "content_id": "content_021",
+    "variant_index": 3,
+    "focal_point": "romantic_leads",
+    "mood": "epic",
+    "text_overlay": "Love conquers all",
+    "description": "villain_close_up with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork104/400/400"
+  },
+  {
+    "artwork_id": "art_105",
+    "content_id": "content_021",
+    "variant_index": 4,
+    "focal_point": "solo_hero",
+    "mood": "warm",
+    "text_overlay": "A secret revealed",
+    "description": "romantic_leads with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork105/400/400"
+  },
+  {
+    "artwork_id": "art_106",
+    "content_id": "content_022",
+    "variant_index": 0,
+    "focal_point": "solo_hero",
+    "mood": "comedic",
+    "text_overlay": "A secret revealed",
+    "description": "romantic_leads with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork106/400/400"
+  },
+  {
+    "artwork_id": "art_107",
+    "content_id": "content_022",
+    "variant_index": 1,
+    "focal_point": "solo_hero",
+    "mood": "intense",
+    "text_overlay": "Nothing is as it seems",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork107/400/400"
+  },
+  {
+    "artwork_id": "art_108",
+    "content_id": "content_022",
+    "variant_index": 2,
+    "focal_point": "ensemble_cast",
+    "mood": "warm",
+    "text_overlay": "A secret revealed",
+    "description": "villain_close_up with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork108/400/400"
+  },
+  {
+    "artwork_id": "art_109",
+    "content_id": "content_022",
+    "variant_index": 3,
+    "focal_point": "romantic_leads",
+    "mood": "warm",
+    "text_overlay": "Love conquers all",
+    "description": "solo_hero with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork109/400/400"
+  },
+  {
+    "artwork_id": "art_110",
+    "content_id": "content_022",
+    "variant_index": 4,
+    "focal_point": "villain_close_up",
+    "mood": "intense",
+    "text_overlay": "A secret revealed",
+    "description": "villain_close_up with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork110/400/400"
+  },
+  {
+    "artwork_id": "art_111",
+    "content_id": "content_023",
+    "variant_index": 0,
+    "focal_point": "ensemble_cast",
+    "mood": "epic",
+    "text_overlay": "Only one survives",
+    "description": "villain_close_up with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork111/400/400"
+  },
+  {
+    "artwork_id": "art_112",
+    "content_id": "content_023",
+    "variant_index": 1,
+    "focal_point": "explosion_action",
+    "mood": "epic",
+    "text_overlay": "A secret revealed",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork112/400/400"
+  },
+  {
+    "artwork_id": "art_113",
+    "content_id": "content_023",
+    "variant_index": 2,
+    "focal_point": "romantic_leads",
+    "mood": "mysterious",
+    "text_overlay": "Only one survives",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork113/400/400"
+  },
+  {
+    "artwork_id": "art_114",
+    "content_id": "content_023",
+    "variant_index": 3,
+    "focal_point": "solo_hero",
+    "mood": "intense",
+    "text_overlay": "Only one survives",
+    "description": "solo_hero with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork114/400/400"
+  },
+  {
+    "artwork_id": "art_115",
+    "content_id": "content_023",
+    "variant_index": 4,
+    "focal_point": "explosion_action",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "villain_close_up with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork115/400/400"
+  },
+  {
+    "artwork_id": "art_116",
+    "content_id": "content_024",
+    "variant_index": 0,
+    "focal_point": "explosion_action",
+    "mood": "comedic",
+    "text_overlay": "The city burns tonight",
+    "description": "ensemble_cast with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork116/400/400"
+  },
+  {
+    "artwork_id": "art_117",
+    "content_id": "content_024",
+    "variant_index": 1,
+    "focal_point": "solo_hero",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "villain_close_up with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork117/400/400"
+  },
+  {
+    "artwork_id": "art_118",
+    "content_id": "content_024",
+    "variant_index": 2,
+    "focal_point": "ensemble_cast",
+    "mood": "warm",
+    "text_overlay": "Nothing is as it seems",
+    "description": "solo_hero with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork118/400/400"
+  },
+  {
+    "artwork_id": "art_119",
+    "content_id": "content_024",
+    "variant_index": 3,
+    "focal_point": "explosion_action",
+    "mood": "comedic",
+    "text_overlay": "Nothing is as it seems",
+    "description": "solo_hero with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork119/400/400"
+  },
+  {
+    "artwork_id": "art_120",
+    "content_id": "content_024",
+    "variant_index": 4,
+    "focal_point": "explosion_action",
+    "mood": "mysterious",
+    "text_overlay": "Nothing is as it seems",
+    "description": "ensemble_cast with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork120/400/400"
+  },
+  {
+    "artwork_id": "art_121",
+    "content_id": "content_025",
+    "variant_index": 0,
+    "focal_point": "villain_close_up",
+    "mood": "epic",
+    "text_overlay": "Love conquers all",
+    "description": "romantic_leads with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork121/400/400"
+  },
+  {
+    "artwork_id": "art_122",
+    "content_id": "content_025",
+    "variant_index": 1,
+    "focal_point": "ensemble_cast",
+    "mood": "comedic",
+    "text_overlay": "The city burns tonight",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork122/400/400"
+  },
+  {
+    "artwork_id": "art_123",
+    "content_id": "content_025",
+    "variant_index": 2,
+    "focal_point": "explosion_action",
+    "mood": "intense",
+    "text_overlay": "The city burns tonight",
+    "description": "explosion_action with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork123/400/400"
+  },
+  {
+    "artwork_id": "art_124",
+    "content_id": "content_025",
+    "variant_index": 3,
+    "focal_point": "solo_hero",
+    "mood": "epic",
+    "text_overlay": "Love conquers all",
+    "description": "ensemble_cast with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork124/400/400"
+  },
+  {
+    "artwork_id": "art_125",
+    "content_id": "content_025",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "Love conquers all",
+    "description": "solo_hero with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork125/400/400"
+  },
+  {
+    "artwork_id": "art_126",
+    "content_id": "content_026",
+    "variant_index": 0,
+    "focal_point": "explosion_action",
+    "mood": "intense",
+    "text_overlay": "A secret revealed",
+    "description": "villain_close_up with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork126/400/400"
+  },
+  {
+    "artwork_id": "art_127",
+    "content_id": "content_026",
+    "variant_index": 1,
+    "focal_point": "villain_close_up",
+    "mood": "warm",
+    "text_overlay": "Nothing is as it seems",
+    "description": "villain_close_up with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork127/400/400"
+  },
+  {
+    "artwork_id": "art_128",
+    "content_id": "content_026",
+    "variant_index": 2,
+    "focal_point": "romantic_leads",
+    "mood": "mysterious",
+    "text_overlay": "Nothing is as it seems",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork128/400/400"
+  },
+  {
+    "artwork_id": "art_129",
+    "content_id": "content_026",
+    "variant_index": 3,
+    "focal_point": "explosion_action",
+    "mood": "warm",
+    "text_overlay": "Only one survives",
+    "description": "romantic_leads with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork129/400/400"
+  },
+  {
+    "artwork_id": "art_130",
+    "content_id": "content_026",
+    "variant_index": 4,
+    "focal_point": "romantic_leads",
+    "mood": "epic",
+    "text_overlay": "Nothing is as it seems",
+    "description": "solo_hero with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork130/400/400"
+  },
+  {
+    "artwork_id": "art_131",
+    "content_id": "content_027",
+    "variant_index": 0,
+    "focal_point": "villain_close_up",
+    "mood": "epic",
+    "text_overlay": "Only one survives",
+    "description": "villain_close_up with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork131/400/400"
+  },
+  {
+    "artwork_id": "art_132",
+    "content_id": "content_027",
+    "variant_index": 1,
+    "focal_point": "villain_close_up",
+    "mood": "comedic",
+    "text_overlay": "A secret revealed",
+    "description": "ensemble_cast with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork132/400/400"
+  },
+  {
+    "artwork_id": "art_133",
+    "content_id": "content_027",
+    "variant_index": 2,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "Nothing is as it seems",
+    "description": "romantic_leads with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork133/400/400"
+  },
+  {
+    "artwork_id": "art_134",
+    "content_id": "content_027",
+    "variant_index": 3,
+    "focal_point": "explosion_action",
+    "mood": "mysterious",
+    "text_overlay": "Love conquers all",
+    "description": "romantic_leads with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork134/400/400"
+  },
+  {
+    "artwork_id": "art_135",
+    "content_id": "content_027",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "warm",
+    "text_overlay": "A secret revealed",
+    "description": "villain_close_up with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork135/400/400"
+  },
+  {
+    "artwork_id": "art_136",
+    "content_id": "content_028",
+    "variant_index": 0,
+    "focal_point": "romantic_leads",
+    "mood": "epic",
+    "text_overlay": "A secret revealed",
+    "description": "explosion_action with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork136/400/400"
+  },
+  {
+    "artwork_id": "art_137",
+    "content_id": "content_028",
+    "variant_index": 1,
+    "focal_point": "solo_hero",
+    "mood": "warm",
+    "text_overlay": "Only one survives",
+    "description": "villain_close_up with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork137/400/400"
+  },
+  {
+    "artwork_id": "art_138",
+    "content_id": "content_028",
+    "variant_index": 2,
+    "focal_point": "romantic_leads",
+    "mood": "intense",
+    "text_overlay": "A secret revealed",
+    "description": "romantic_leads with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork138/400/400"
+  },
+  {
+    "artwork_id": "art_139",
+    "content_id": "content_028",
+    "variant_index": 3,
+    "focal_point": "romantic_leads",
+    "mood": "mysterious",
+    "text_overlay": "The city burns tonight",
+    "description": "romantic_leads with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork139/400/400"
+  },
+  {
+    "artwork_id": "art_140",
+    "content_id": "content_028",
+    "variant_index": 4,
+    "focal_point": "ensemble_cast",
+    "mood": "epic",
+    "text_overlay": "Nothing is as it seems",
+    "description": "ensemble_cast with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork140/400/400"
+  },
+  {
+    "artwork_id": "art_141",
+    "content_id": "content_029",
+    "variant_index": 0,
+    "focal_point": "ensemble_cast",
+    "mood": "comedic",
+    "text_overlay": "Love conquers all",
+    "description": "ensemble_cast with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork141/400/400"
+  },
+  {
+    "artwork_id": "art_142",
+    "content_id": "content_029",
+    "variant_index": 1,
+    "focal_point": "ensemble_cast",
+    "mood": "intense",
+    "text_overlay": "Nothing is as it seems",
+    "description": "explosion_action with epic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork142/400/400"
+  },
+  {
+    "artwork_id": "art_143",
+    "content_id": "content_029",
+    "variant_index": 2,
+    "focal_point": "ensemble_cast",
+    "mood": "comedic",
+    "text_overlay": "Only one survives",
+    "description": "ensemble_cast with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork143/400/400"
+  },
+  {
+    "artwork_id": "art_144",
+    "content_id": "content_029",
+    "variant_index": 3,
+    "focal_point": "solo_hero",
+    "mood": "intense",
+    "text_overlay": "Only one survives",
+    "description": "explosion_action with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork144/400/400"
+  },
+  {
+    "artwork_id": "art_145",
+    "content_id": "content_029",
+    "variant_index": 4,
+    "focal_point": "explosion_action",
+    "mood": "warm",
+    "text_overlay": "Only one survives",
+    "description": "romantic_leads with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork145/400/400"
+  },
+  {
+    "artwork_id": "art_146",
+    "content_id": "content_030",
+    "variant_index": 0,
+    "focal_point": "ensemble_cast",
+    "mood": "warm",
+    "text_overlay": "A secret revealed",
+    "description": "romantic_leads with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork146/400/400"
+  },
+  {
+    "artwork_id": "art_147",
+    "content_id": "content_030",
+    "variant_index": 1,
+    "focal_point": "solo_hero",
+    "mood": "comedic",
+    "text_overlay": "The city burns tonight",
+    "description": "ensemble_cast with comedic lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork147/400/400"
+  },
+  {
+    "artwork_id": "art_148",
+    "content_id": "content_030",
+    "variant_index": 2,
+    "focal_point": "villain_close_up",
+    "mood": "warm",
+    "text_overlay": "Love conquers all",
+    "description": "villain_close_up with mysterious lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork148/400/400"
+  },
+  {
+    "artwork_id": "art_149",
+    "content_id": "content_030",
+    "variant_index": 3,
+    "focal_point": "explosion_action",
+    "mood": "warm",
+    "text_overlay": "Love conquers all",
+    "description": "romantic_leads with warm lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork149/400/400"
+  },
+  {
+    "artwork_id": "art_150",
+    "content_id": "content_030",
+    "variant_index": 4,
+    "focal_point": "romantic_leads",
+    "mood": "intense",
+    "text_overlay": "Love conquers all",
+    "description": "romantic_leads with intense lighting and dramatic composition.",
+    "artwork_image": "https://picsum.photos/seed/artwork150/400/400"
+  }
+]
